@@ -5,7 +5,6 @@ import App from './App.js';
 
 import './src/css/mui.min.css';
 import './src/css/style.scss';
-// import './src/images';
 
 const dummyData = [
   { id: 0, img: "./src/assets/images/golden-temple.jpg",  title: "The Golden Temple", description:"The Golden temple is the holiest shrine of Sikhs. It was built in late 16th century by Guru Arjan, and a copy of the Sikh scripture was placed inside the temple in 1604. Its sanctum walls were covered in marble and the dome was decorated with gold foil by Ranjit Singh in the 19th century."},
